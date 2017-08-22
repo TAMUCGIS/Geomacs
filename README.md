@@ -1,4 +1,4 @@
-# GIS-Emacs
+# Geomacs
 This is an emacs configuration for having a total GIS development environment using only emacs. 
 
 List of modes included: 
